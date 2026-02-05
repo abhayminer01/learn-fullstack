@@ -21,8 +21,8 @@ The goal of this project is to:
 
 ## 📸 Preview
 
-`./preview1.png`
-
+![alt text](./preview1.png)
+![alt text](./preview2.png)
 ---
 
 ## 🧩 Features
