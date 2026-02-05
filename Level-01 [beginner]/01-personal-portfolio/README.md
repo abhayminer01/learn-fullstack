@@ -42,8 +42,9 @@ The goal of this project is to:
 ```
 01-portfolio-html/
 │
-├── index.html
-├── style.css
+├── code/
+    ├── index.html
+    ├── style.css
 └── README.md
 ```
 
