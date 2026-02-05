@@ -23,7 +23,7 @@ The goal of this project is to:
 
 > Add screenshots of your website here once you build it
 > Example:
-> `./preview.png`
+> `./preview1.png`
 
 ---
 
