@@ -21,9 +21,7 @@ The goal of this project is to:
 
 ## 📸 Preview
 
-> Add screenshots of your website here once you build it
-> Example:
-> `./preview1.png`
+`./preview1.png`
 
 ---
 
